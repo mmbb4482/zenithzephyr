@@ -1,5 +1,5 @@
 {
-  "name": "zenithzephyr",
+  "name": "zenithzephyr0",
   "version": "1.0.0",
   "description": "用法如下",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mmbb4482/zenithzephyr.git"
+    "url": "https://github.com/mmbb4482/zenithzephyr0.git"
   },
   "author": "",
   "license": "ISC",
